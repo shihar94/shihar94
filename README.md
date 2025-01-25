@@ -137,6 +137,6 @@ React -->
 </a>
 <!--Maven-->
 <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" width="40" height="40"/>
 </a>
 </p>
