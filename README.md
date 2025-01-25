@@ -4,7 +4,7 @@
 <p align="center"><img
     src="https://komarev.com/ghpvc/?username=shihar94&label=Profile%20views&color=0e75b6&style=flat"
     alt="shihar94" /></p>
-
+- 👨‍🏭 Studied **B.Eng (Hons) in Aeronautical Engineerig @ University of Sydney, Australia** <br>
 - 🌱 I’m currently learning **SpringBoot ,Node.Js ,C# ,React.**
  <!-- 
 - 👨‍💻 All of my projects are available at [udara-dananjaya.github.io](https://udara-dananjaya.github.io)
