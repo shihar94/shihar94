@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning SpringBoot , React , JavaScript
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/shihar94) is the only place I respond if I don't know you 😄
