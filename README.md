@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Front-End & Back-End Developer From Sri Lanka ʟᴋ.</h3>
 
 <p align="center"><img
-    src="https://komarev.com/ghpvc/?username=udara-dananjaya&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=shihar94&label=Profile%20views&color=0e75b6&style=flat"
     alt="udara-dananjaya" /></p>
 
 - 🌱 I’m currently learning **SpringBoot ,Node.Js ,C# ,React.**
