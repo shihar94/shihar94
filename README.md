@@ -132,6 +132,9 @@ React -->
 
   <!--Kafka-->
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<a href="https://github.com/confluentinc/librdkafka" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+</a>
+          
           
 </p>
