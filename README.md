@@ -133,7 +133,7 @@ React -->
   <!--Kafka-->
 
 <a href="https://github.com/confluentinc/librdkafka" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
 </a>
           
           
