@@ -129,4 +129,9 @@ React -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="GitBash" width="40" height="40"/>
   </a>
+
+  <!--Kafka-->
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 </p>
