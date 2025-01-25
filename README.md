@@ -6,8 +6,9 @@
     alt="udara-dananjaya" /></p>
 
 - 🌱 I’m currently learning **SpringBoot ,Node.Js ,C# ,React.**
-
+ <!-- 
 - 👨‍💻 All of my projects are available at [udara-dananjaya.github.io](https://udara-dananjaya.github.io)
+React -->
 
 - 💬 Ask me about **C++ ,Java, Python ,MySQL.**
 
@@ -18,7 +19,7 @@
 <p align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(60px, 1fr)); gap: 20px; align-items: center;">
  
   
-  <!-- React -->
+ 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
