@@ -1,6 +1,19 @@
 <h1 align="center">Hi There 👋, I'm Shihar Halaldeen</h1>
 <h2 align="center">Rocket Scientist With Coding Skills</h2>
 
+I'm a Senior Software Engineer with a strong foundation in engineering and a passion for continuous learning. I hold a BEng (Hons) in Aeronautical Engineering from the University of Sydney, but my career trajectory led me to software development—a field I embraced through self-driven learning in C++ and Java.
+
+Currently, I work at LSEG Technologies, where I tackle complex challenges and deliver impactful solutions. My approach to work is guided by a "never give up" attitude, always striving to give my best effort in every task.
+
+To stay ahead in this ever-evolving field, I am expanding my tech stack with Spring Boot, Docker, React, and other modern technologies. I enjoy building efficient, scalable, and user-focused applications, whether for backend systems or full-stack solutions.
+
+💡 Key Interests:
+
+Software design and development
+Real-time systems
+Cloud-native technologies
+Cross-functional team collaboration
+Feel free to connect or explore my repositories to see what I’ve been working on. Let’s build something amazing together! 🚀
 
 <p align="center"><img
     src="https://komarev.com/ghpvc/?username=shihar94&label=Profile%20views&color=0e75b6&style=flat"
