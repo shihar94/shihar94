@@ -3,7 +3,7 @@
 
 <p align="center"><img
     src="https://komarev.com/ghpvc/?username=shihar94&label=Profile%20views&color=0e75b6&style=flat"
-    alt="udara-dananjaya" /></p>
+    alt="shihar94" /></p>
 
 - 🌱 I’m currently learning **SpringBoot ,Node.Js ,C# ,React.**
  <!-- 
