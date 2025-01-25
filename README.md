@@ -5,7 +5,7 @@
     src="https://komarev.com/ghpvc/?username=udara-dananjaya&label=Profile%20views&color=0e75b6&style=flat"
     alt="udara-dananjaya" /></p>
 
-- 🌱 I’m currently learning **CodeIgniter ,Node.Js ,django ,React.**
+- 🌱 I’m currently learning **SpringBoot ,Node.Js ,C# ,React.**
 
 - 👨‍💻 All of my projects are available at [udara-dananjaya.github.io](https://udara-dananjaya.github.io)
 
