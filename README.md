@@ -9,10 +9,11 @@ To stay ahead in this ever-evolving field, I am expanding my tech stack with Spr
 
 💡 Key Interests:
 
-Software design and development
-Real-time systems
-Cloud-native technologies
-Cross-functional team collaboration
+- Software design and development
+- Real-time systems
+- Cloud-native technologies
+- Cross-functional team collaboration
+
 Feel free to connect or explore my repositories to see what I’ve been working on. Let’s build something amazing together! 🚀
 
 <p align="center"><img
@@ -21,11 +22,7 @@ Feel free to connect or explore my repositories to see what I’ve been working 
 
 
 - 👨‍🏭 Studied B.Eng (Hons) in Aeronautical Engineerig @ University of Sydney, Australia<br>
-
 - 🌱 I’m currently learning **SpringBoot ,Node.Js ,C# ,React.**
-
-
-
 - 💬 Ask me about **C++ ,Java, Python ,MySQL.**
 
 <h3 align="left">🔗 Connect with me:</h3>
