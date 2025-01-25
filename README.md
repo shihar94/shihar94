@@ -1,10 +1,11 @@
 <h1 align="center">Hi There 👋, I'm Shihar Halaldeen</h1>
+<h2 align="center">Rocket Scientist With Coding Skills</h2>
 <h3 align="center">A Passionate Front-End & Back-End Developer From Sri Lanka ʟᴋ.</h3>
 
 <p align="center"><img
     src="https://komarev.com/ghpvc/?username=shihar94&label=Profile%20views&color=0e75b6&style=flat"
     alt="shihar94" /></p>
-- 👨‍🏭 Studied B.Eng (Hons) in Aeronautical Engineerig @ University of Sydney, Australia (Rocket Scientist with Coding Skills)<br>
+- 👨‍🏭 Studied B.Eng (Hons) in Aeronautical Engineerig @ University of Sydney, Australia<br>
 - 🌱 I’m currently learning **SpringBoot ,Node.Js ,C# ,React.**
  <!-- 
 - 👨‍💻 All of my projects are available at [udara-dananjaya.github.io](https://udara-dananjaya.github.io)
