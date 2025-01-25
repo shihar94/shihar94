@@ -12,6 +12,26 @@ React -->
 
 - 💬 Ask me about **C++ ,Java, Python ,MySQL.**
 
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+<!-- Angular
+  <a href="https://bashitha-weerapperuma.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/256/internet.png" alt="Website" height="30" width="40" />
+  </a> 
+  -->
+  <a href="https://linkedin.com/in/shihar94" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <!-- Angular
+  <a href="https://fb.com/bashitha.weerapperuma.750" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/b.a._s_a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+    -->
+</p>
+
 
 
 
