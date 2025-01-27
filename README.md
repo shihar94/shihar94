@@ -22,7 +22,7 @@ Feel free to connect or explore my repositories to see what I’ve been working 
 
 
 - 👨‍🏭 Studied B.Eng (Hons) in Aeronautical Engineerig @ University of Sydney, Australia<br>
-- 🌱 I’m currently learning **SpringBoot ,Node.Js ,C# ,React.**
+- 🌱 I’m currently learning **SpringBoot ,Node.Js ,C# ,React and Docker.**
 - 💬 Ask me about **C++ ,Java, Python ,MySQL.**
 
 <h3 align="left">🔗 Connect with me:</h3>
